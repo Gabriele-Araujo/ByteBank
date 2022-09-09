@@ -1,0 +1,7 @@
+C:\Users\gabyc\OneDrive\Documentos\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.exe.config
+C:\Users\gabyc\OneDrive\Documentos\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.exe
+C:\Users\gabyc\OneDrive\Documentos\ByteBank\05-ByteBank\bin\Debug\05-ByteBank.pdb
+C:\Users\gabyc\OneDrive\Documentos\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.csproj.AssemblyReference.cache
+C:\Users\gabyc\OneDrive\Documentos\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\gabyc\OneDrive\Documentos\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.exe
+C:\Users\gabyc\OneDrive\Documentos\ByteBank\05-ByteBank\obj\Debug\05-ByteBank.pdb
